@@ -10,6 +10,8 @@ EduStableCoin also serves as a financial tool to facilitate education funding, s
 
 ## Contract Address
  0x2a55F3d984472bc570b9b2b2c229841DaE2Cae5a
+ ![image](https://github.com/user-attachments/assets/cbd9bf32-024b-4dba-ab5e-b9a6f4125e39)
+
 
 ## Project Vision
 Our vision is to create a sustainable ecosystem where education quality and performance are incentivized through blockchain technology. By integrating stablecoins with educational outcomes, EduStableCoin aims to:
